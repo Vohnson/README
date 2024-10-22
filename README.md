@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Vohnson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: Tenho carteira de Piloto Privado de Avião com 120h de voo🛩️
-
-<!---
-VohnsonV/VohnsonV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @Vohnson
+- 👀 I'm interested in becoming a Full-Stack Web Developer
+- 🌱 I'm currently studying Software Engineering 1st period
+- 📫 How to contact me: (81) 9 9998-5571
+- ⚡ Fun fact: I have a private pilot's license with 120 hours voo🛩️
